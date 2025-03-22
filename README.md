@@ -9,7 +9,9 @@ The aim of this assignment is to encode and decode text into/from a compressed f
 
 Huffman Coding
 Huffman coding is an encoding method used for data compression where each character is encoded as a sequence of bits (0's and 1's). The result of running the algorithm is a Huffman tree, which is used for both encoding and decoding. Here is an example of a Huffman tree:
+
 ![image](https://github.com/user-attachments/assets/06429f62-6301-4d51-8b2a-3a432f99851d)
+
 .
 .
 .
@@ -28,7 +30,9 @@ Note that struct huffmanTree contains a freq field, but this field is not used d
 
 Example
 Consider the following Huffman tree:
+
 ![image](https://github.com/user-attachments/assets/b0e1daba-c59e-480e-bf98-a3ebde1e66a6)
+
 Here are some example encodings and what they would be decoded to:
 
 Encoding	Decoded text
@@ -38,6 +42,7 @@ Encoding	Decoded text
 011000100101011111001010011100010110	dire straits
 
 result:
+
 ![image](https://github.com/user-attachments/assets/817db3f4-c2ff-46b9-aa14-11e3d6824880)
 
 
@@ -45,6 +50,7 @@ result:
 Task 2: Counter ADT
 ...
 result:
+
 ![image](https://github.com/user-attachments/assets/5239f688-d2b9-496b-9c54-a3ab6fbfb90e)
 
 Task 3: Constructing a Huffman Tree
@@ -56,6 +62,7 @@ result: I ran it on my local virtual machine and did not connect to CSE. Therefo
 Task 4: Encoding
 ...
 result:
+
 ![image](https://github.com/user-attachments/assets/b17e8754-7c29-4dcd-9d72-cee2aa361097)
 
 
