@@ -62,7 +62,8 @@ result:
 ...
 result: I ran it on my local virtual machine and did not connect to CSE. Therefore, no result was displayed, but it is correct and can be verified by oneself.
 
-![image](https://github.com/user-attachments/assets/e4aeea15-6ec9-489d-9298-5bddcc715cd0)
+![image](https://github.com/user-attachments/assets/a9cee85f-101b-4339-a04a-503c03aa55ae)
+
 
 # Task 4: Encoding
 ...
