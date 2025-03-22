@@ -1,4 +1,9 @@
+Source code, please contact:
+wechat：SJY329511
+discord：7ongmo_59001
+
 # Assignment-1-My-Huffman-Tree-Encoder
+
 What is Encoding? Encoding is the process of converting data into a different format.  In the real world, data often needs to be converted into different formats for efficient processing, storage or transmission, so there are many examples of encoding:.....
 ASCII encoding, which converts commonly used characters to a 7 bit code
 UTF-8 encoding, which converts a much wider range of characters to a 8-32 bit code
@@ -18,7 +23,7 @@ Huffman coding is an encoding method used for data compression where each charac
 .
 .
 .
-Task 1: Decoding
+# Task 1: Decoding
 Given a Huffman tree and an encoded text, decoding is very easy, so we've designated this as the first task.
 
 Your task is to implement the following function in huffman.c:
@@ -47,19 +52,19 @@ result:
 
 
 
-Task 2: Counter ADT
+# Task 2: Counter ADT
 ...
 result:
 
 ![image](https://github.com/user-attachments/assets/5239f688-d2b9-496b-9c54-a3ab6fbfb90e)
 
-Task 3: Constructing a Huffman Tree
+# Task 3: Constructing a Huffman Tree
 ...
 result: I ran it on my local virtual machine and did not connect to CSE. Therefore, no result was displayed, but it is correct and can be verified by oneself.
 
 ![image](https://github.com/user-attachments/assets/e4aeea15-6ec9-489d-9298-5bddcc715cd0)
 
-Task 4: Encoding
+# Task 4: Encoding
 ...
 result:
 
