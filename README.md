@@ -1,6 +1,8 @@
-Source code, please contact:
-wechat：SJY329511
-discord：7ongmo_59001
+## Source code, please contact:
+
+## wechat：SJY329511
+
+## discord：7ongmo_59001
 
 # Assignment-1-My-Huffman-Tree-Encoder
 
